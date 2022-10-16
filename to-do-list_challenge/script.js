@@ -28,7 +28,3 @@ function deleteList(event) {
   list_group.removeChild(list);
 }
 
-// function deleteList() {
-//   const list_element = document.getElementById('list-item');
-//   list_element.removeChild(li);
-// }
