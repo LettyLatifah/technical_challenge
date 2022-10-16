@@ -1,0 +1,17 @@
+.angka1 {
+  background-color: black;
+  color: white;
+}
+
+.row2 {
+  color: white;
+  background-color: green;
+}
+.angka16 {
+  color: white;
+  background-color: red;
+}
+
+td {
+  padding: 10px;
+}
